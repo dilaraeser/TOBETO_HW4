@@ -5,6 +5,7 @@ def palindrom_mu(sayi):
 
 sayi = input("Lütfen bir sayı giriniz: ")
 
+
 if palindrom_mu(sayi):
     print(sayi, " bir palindromdur.")
 else:
